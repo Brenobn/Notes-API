@@ -5,7 +5,12 @@ O usuário vai ter a liberdade de fazer suas anotações de links utéis e com i
 
 🔨 Tecnologias Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-JavaScript NodeJs JSON Sqlite Express Knex
+ - JavaScript
+ - NodeJs
+ - JSON
+ - Sqlite
+ - Express
+ - Knex
 
 📚 Requisitos Ter Git para clonar o projeto. Ter Node.js instalado. 🚀 Começando
 
