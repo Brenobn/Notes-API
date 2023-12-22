@@ -1,6 +1,6 @@
 📃 Sobre Este repositório contém uma aplicação em NodeJs utilizando JavaScript.
 
-Essa é a aplicação back-end Rocket-notes. Nada mais nada menos que uma API de um app de notas. Nele vão ficar todos os dados que o usuário inserir em sua conta cadastrada. 
+Essa é a aplicação back-end Notes-API. Nada mais nada menos que uma API de um app de notas. Nele vão ficar todos os dados que o usuário inserir em sua conta cadastrada. 
 O usuário vai ter a liberdade de fazer suas anotações de links utéis e com isso ter mais facilidade de estudar e aprimorar ainda mais seu conhecimento.
 
 🔨 Tecnologias Esse projeto foi desenvolvido com as seguintes tecnologias:
